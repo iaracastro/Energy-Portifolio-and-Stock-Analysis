@@ -12,5 +12,11 @@ A escolha das ações, foi feita com base no setor de energia, que é um dos set
 ## Leitura dos Dados:
 Além disso, temos facilidade em coletar e manipular dados financeiros em tempo real. A biblioteca yfinance é um excelente exemplo disso, permitindo-nos obter dados de ações, ETFs e outros instrumentos financeiros diretamente do Yahoo Finance. Uma vez coletados, os dados podem ser facilmente transformados e analisados usando pandas, uma biblioteca que fornece estruturas de dados e funções de alto desempenho para manipulação e análise de dados e matplotlib, uma biblioteca para geração dos gráficos.
 
-## Conclusão:
+## Objetivo:
 Ao criar este repositório no GitHub, visamos fornecer a analistas e entusiastas de finanças uma ferramenta robusta e flexível para análise e otimização de portfólio usando Python. A análise de ações proporciona uma visão abrangente do mercado e das possibilidades de investimento. Com a inclusão de tutoriais e documentação, esperamos que este repositório se torne um recurso valioso para aqueles que buscam aprimorar suas habilidades em finanças quantitativas.
+
+## Visualização do Projeto:
+https://iaracastro.github.io/Energy-Portifolio-and-Stock-Analysis/
+
+
+
